@@ -2,7 +2,7 @@
 2017 Latest Microsoft Exam 70-480 Dumps Study Guide - High Pass Rate
 
 QUESTION 1 
-You need to implement the getStoredCredentialsFull method. Which code segment should you insert at line CM13? 
+You need to implement the getStoredCredentialsFull method. Which [70-480 dumps](http://www.kingdump.com/70-480.html) code segment should you insert at line CM13? 
 A. Option A 
 B. Option B 
 C. Option C 
